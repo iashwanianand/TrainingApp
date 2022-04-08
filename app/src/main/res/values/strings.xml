@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrainingApp</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="please_wait">Please wait</string>
+    <string name="login">Login</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="vehicle_image">Vehicle Image</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="vehicle_price">Vehicle Price</string>
+</resources>
